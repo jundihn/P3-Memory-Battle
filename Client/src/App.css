@@ -1,0 +1,31 @@
+.App {
+  /* max-width: 860px; */
+  justify-content: center;
+}
+
+button {
+  background: none;
+  border: 2px solid #fff;
+  padding: 6px 12px;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+button:hover {
+  background: #c23866;
+  color: #fff;
+}
+
+.card-grid {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+
+/* #toggle-button {
+  padding: 0;
+} */
