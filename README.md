@@ -1,7 +1,5 @@
 # Memory Battle
 
-![alt text](image-1.png)
-
 Memory Battle is an engaging and interactive memory game where players compete to match pairs of cards. The goal is to enhance cognitive skills by memorizing the positions of cards and finding matching pairs. The game offers a fun and challenging experience for players of all ages, with real-time multiplayer support.
 
 ## Features
